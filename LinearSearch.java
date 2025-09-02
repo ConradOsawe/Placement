@@ -6,7 +6,7 @@ public class LinearSearch {
 
         int[] a = { 4, 1, 3, 6, 5 };
 
-        System.out.println("Enter your target value");
+        System.out.println("Enter your target value.");
         int target = sc.nextInt();
 
         boolean found = false;
